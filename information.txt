@@ -1,3 +1,5 @@
-Alias Name - 
+Key Store Password - 
 
-Password - 
+Key Alias -
+
+Key Password - 
